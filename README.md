@@ -1,61 +1,68 @@
-# Hi 👋 I'm Diya Gupta  
-
-🎓 Computer Science Engineering Student  
-📊 Aspiring Data Analyst | Data Enthusiast  
-💡 Turning Data into Insights  
+<h1 align="center">Hi 👋, I'm Diya Gupta</h1>
+<h3 align="center">CSE Student | Aspiring Data Analyst | Turning Data into Insights 📊</h3>
 
 ---
 
-## 🚀 About Me
-Passionate CSE student focused on Data Analytics, Business Intelligence, and Problem Solving.  
-Currently building strong foundations in Python, SQL, Excel, Power BI, Tableau & DSA.  
-I love transforming raw data into meaningful business insights.
+## 🌼 About Me
+
+✨ Computer Science Engineering student passionate about Data Analytics  
+📊 Exploring the world of data, visualization & business intelligence  
+🧠 Strengthening problem-solving through DSA  
+🌐 Learning web technologies alongside analytics  
 
 ---
 
-# 🛠️ Tech Stack  
+## 🚀 What I'm Currently Focused On
 
-### 📊 Data Analytics & BI Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+- 📈 Data Analysis using Python & SQL  
+- 📊 Dashboard creation with Power BI & Tableau  
+- 📑 Advanced Excel for business insights  
+- 💻 Improving DSA for logical thinking  
 
 ---
 
-### 💻 Programming & Development
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-ff6f00?style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 💎 Core Skills
+
+### 📊 Data & Analytics
+`Python` • `SQL` • `Excel` • `Power BI` • `Tableau` • `Pandas` • `NumPy` • `Matplotlib`
+
+### 💻 Programming
+`Data Structures & Algorithms` • `HTML` • `CSS` • `JavaScript`
 
 ---
 
-# 📌 Featured Projects  
+## 🌟 Featured Work
 
-🔹 📊 **Sales Data Analysis (Python + Pandas)**  
-Analyzed sales dataset to extract trends, revenue insights & performance metrics.
+📊 **Sales Data Analysis Project**  
+→ Extracted revenue insights & performance trends using Python  
 
-🔹 📈 **Customer Segmentation (Machine Learning)**  
-Used clustering techniques to segment customers based on purchasing behavior.
+📈 **Customer Segmentation Model**  
+→ Applied clustering techniques to group customers  
 
-🔹 🗄️ **SQL Business Insights Project**  
-Wrote advanced SQL queries to generate business KPIs and insights.
+🗄️ **SQL Business Insights Project**  
+→ Generated KPIs & reports using advanced SQL queries  
 
-🔹 📉 **Power BI Dashboard Project**  
-Built interactive dashboard for visualizing sales and performance data.
-
----
-
-# 📊 GitHub Stats  
-
-![Diya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical)
+📉 **Interactive Power BI Dashboard**  
+→ Built visual reports for decision-making  
 
 ---
 
-# 🤝 Connect With Me  
+## 📊 GitHub Overview
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DiyaGupta-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/diya-gupta-346475294/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+<a href="https://www.linkedin.com/in/diya-gupta-346475294/" target="blank">
+<img align="center" src="https://img.shields.io/badge/LinkedIn-Diya%20Gupta-blue?style=for-the-badge&logo=linkedin" />
+</a>
+</p>
